@@ -1,443 +1,468 @@
 [
     {
-        "area_code": 9,
-        "start_number": "884 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
         "operator": "Mpt",
-        "remark": ""
+        "numbers": [
+            {
+                "area_code": 9,
+                "start_number": "884 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Mpt",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "885 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Mpt",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "886 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Mpt",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "267 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Mpt",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "268 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Mpt",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "269 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Mpt",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "405 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Mpt",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "406 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Mpt",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "407 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Mpt",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "408 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Mpt",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "409 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Mpt",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "446 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Mpt",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "266 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Mpt",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "447 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Mpt",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "887 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Mpt",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "888 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Mpt",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "889 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Mpt",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "89x xxx - xxx",
+                "digit_length": 10,
+                "system_type": "CDMA-450",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Mpt",
+                "remark": ""
+            }
+        ]
     },
     {
-        "area_code": 9,
-        "start_number": "885 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Mpt",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "886 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Mpt",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "267 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Mpt",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "268 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Mpt",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "269 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Mpt",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "405 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Mpt",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "406 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Mpt",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "407 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Mpt",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "408 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Mpt",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "409 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Mpt",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "446 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Mpt",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "266 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Mpt",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "447 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Mpt",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "887 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Mpt",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "888 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Mpt",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "889 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Mpt",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "89x xxx - xxx",
-        "digit_length": 10,
-        "system_type": "CDMA-450",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Mpt",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "753 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
         "operator": "Telenor",
-        "remark": ""
+        "numbers": [
+            {
+                "area_code": 9,
+                "start_number": "753 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Telenor",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "754 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Telenor",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "755 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Telenor",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "756 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Telenor",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "757 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Telenor",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "758 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Telenor",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "759 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Telenor",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "750 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Telenor",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "751 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Telenor",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "752 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Telenor",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "76x xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Telenor",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "77x xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Telenor",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "79x xxx - xxx",
+                "digit_length": 10,
+                "system_type": "GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Telenor",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "78x xxx -xxx",
+                "digit_length": 10,
+                "system_type": "GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Telenor",
+                "remark": ""
+            }
+        ]
     },
     {
-        "area_code": 9,
-        "start_number": "754 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Telenor",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "755 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Telenor",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "756 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Telenor",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "757 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Telenor",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "758 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Telenor",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "759 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Telenor",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "750 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Telenor",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "751 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Telenor",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "752 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Telenor",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "76x xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Telenor",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "77x xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Telenor",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "79x xxx - xxx",
-        "digit_length": 10,
-        "system_type": "GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Telenor",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "78x xxx -xxx",
-        "digit_length": 10,
-        "system_type": "GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Telenor",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "663 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
         "operator": "MyTel",
-        "remark": ""
+        "numbers": [
+            {
+                "area_code": 9,
+                "start_number": "663 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "MyTel",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "664 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "MyTel",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "665 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "MyTel",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "666 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "MyTel",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "68x xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "MyTel",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "67x xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMS / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "MyTel",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "660 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "MyTel",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "661 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "MyTel",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "662 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "MyTel",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "69x xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "MyTel",
+                "remark": ""
+            }
+        ]
     },
     {
-        "area_code": 9,
-        "start_number": "664 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "MyTel",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "665 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "MyTel",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "666 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "MyTel",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "68x xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "MyTel",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "67x xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMS / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "MyTel",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "660 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "MyTel",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "661 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "MyTel",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "662 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "MyTel",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "69x xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "MyTel",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "98x xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMA / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
         "operator": "Ooredoo",
-        "remark": ""
+        "numbers": [
+            {
+                "area_code": 9,
+                "start_number": "98x xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMA / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Ooredoo",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "95x xxx - xxx",
+                "digit_length": 10,
+                "system_type": "WCDMS / GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Ooredoo",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "97x xxx - xxx",
+                "digit_length": 10,
+                "system_type": "GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Ooredoo",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "96x xxx - xxx",
+                "digit_length": 10,
+                "system_type": "GSM",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Ooredoo",
+                "remark": ""
+            }
+        ]
     },
     {
-        "area_code": 9,
-        "start_number": "95x xxx - xxx",
-        "digit_length": 10,
-        "system_type": "WCDMS / GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Ooredoo",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "97x xxx - xxx",
-        "digit_length": 10,
-        "system_type": "GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Ooredoo",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "96x xxx - xxx",
-        "digit_length": 10,
-        "system_type": "GSM",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Ooredoo",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "340 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "CDMA 2000 1x",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Mec Tel",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "346 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "CDMA 2000 1x",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Mec Tel",
-        "remark": ""
-    },
-    {
-        "area_code": 9,
-        "start_number": "349 xxx - xxx",
-        "digit_length": 10,
-        "system_type": "CDMA 2000 1x",
-        "digit_length_description": "Digit Length includes Area Code.",
-        "operator": "Mec Tel",
-        "remark": ""
+        "operator": "MecTel",
+        "numbers": [
+            {
+                "area_code": 9,
+                "start_number": "340 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "CDMA 2000 1x",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Mec Tel",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "346 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "CDMA 2000 1x",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Mec Tel",
+                "remark": ""
+            },
+            {
+                "area_code": 9,
+                "start_number": "349 xxx - xxx",
+                "digit_length": 10,
+                "system_type": "CDMA 2000 1x",
+                "digit_length_description": "Digit Length includes Area Code.",
+                "operator": "Mec Tel",
+                "remark": ""
+            }
+        ]
     }
 ]

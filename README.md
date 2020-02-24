@@ -105,3 +105,6 @@ Data from [https://www.itu.int/oth/T0202000092/en](https://www.itu.int/oth/T0202
 | 9         | 349 xxx - xxx | 10           | CDMA 2000 1x |
 
 > Note: `Digit Length` includes `Area Code`.
+
+# Contribution
+All pull requests are welcome, make sure to follow the [contribution guidelines](https://github.com/ZattWine/mm-phone-numbering/blob/master/CONTRIBUTION.md) when you submit pull request.
