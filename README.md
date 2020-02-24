@@ -37,6 +37,8 @@ Data from [https://www.itu.int/oth/T0202000092/en](https://www.itu.int/oth/T0202
 | 9         | 889 xxx - xxx | 10           | WCDMA / GSM |
 | 9         | 89x xxx - xxx | 10           | CDMA-450    |
 
+> Note: `Digit Length` includes `Area Code`.
+
 ##  Telenor
 
 ### Telenor Myanmar Limited
@@ -58,6 +60,8 @@ Data from [https://www.itu.int/oth/T0202000092/en](https://www.itu.int/oth/T0202
 | 9         | 79x xxx - xxx | 10           | GSM         |
 | 9         | 78x xxx -xxx  | 10           | GSM         |
 
+> Note: `Digit Length` includes `Area Code`.
+
 ##  MyTel
 
 ### Telecom International Myanmar Co., Ltd
@@ -75,6 +79,8 @@ Data from [https://www.itu.int/oth/T0202000092/en](https://www.itu.int/oth/T0202
 | 9         | 662 xxx - xxx | 10           | WCDMA / GSM |
 | 9         | 69x xxx - xxx | 10           | WCDMA / GSM |
 
+> Note: `Digit Length` includes `Area Code`. According to the document, `69x xxx - xxx`  is in `Myanmar National Tele & Communications Co.,Ltd`. But we know this number is `MyTel(Telecom International Myanmar Co., Ltd)`.
+
 ##  Ooredoo
 
 ###  Ooredoo Myanmar Limited
@@ -86,6 +92,8 @@ Data from [https://www.itu.int/oth/T0202000092/en](https://www.itu.int/oth/T0202
 | 9         | 97x xxx - xxx | 10           | GSM         |
 | 9         | 96x xxx - xxx | 10           | GSM         |
 
+> Note: `Digit Length` includes `Area Code`.
+
 ##  Mec
 
 ###  MecTel
@@ -95,3 +103,5 @@ Data from [https://www.itu.int/oth/T0202000092/en](https://www.itu.int/oth/T0202
 | 9         | 340 xxx - xxx | 10           | CDMA 2000 1x |
 | 9         | 346 xxx - xxx | 10           | CDMA 2000 1x |
 | 9         | 349 xxx - xxx | 10           | CDMA 2000 1x |
+
+> Note: `Digit Length` includes `Area Code`.
