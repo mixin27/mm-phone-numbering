@@ -58,7 +58,7 @@ Data from [https://www.itu.int/oth/T0202000092/en](https://www.itu.int/oth/T0202
 | 9         | 76x xxx - xxx | 10           | WCDMA / GSM |
 | 9         | 77x xxx - xxx | 10           | WCDMA / GSM |
 | 9         | 79x xxx - xxx | 10           | GSM         |
-| 9         | 78x xxx -xxx  | 10           | GSM         |
+| 9         | 78x xxx - xxx | 10           | GSM         |
 
 > Note: `Digit Length` includes `Area Code`.
 
