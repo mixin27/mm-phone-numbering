@@ -19,7 +19,7 @@ $ git checkout -b my-new-branch-name
 ```
 After you finished these steps, you are able to contribute.
 
-Each operator has the following structure in my `data.json`
+Each operator has the following structure in my `db.json`
 
 ```json
 {
