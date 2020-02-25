@@ -63,21 +63,22 @@ You can add new phone number format below the last item within `numbers` array.
 
 If you want to add a new operator, you can add data as follow.
 
-```json
+```
 [
-    // other operators
-    ,
+    ...
     {
     	"operator" : "operator name",
     	"numbers" : [
-    		"area_code" : Number,
-    		"start_number" : String,
-    		"digit_length" : Number,
-    		"system_type" : String,
-    		"digit_length_description" : String,
-    		"operator" : String,
-    		"remark" : String,
-		]
+    	    {
+		"area_code": Number,
+    		"start_number": "String",
+    		"digit_length": Number,
+    		"system_type": "String",
+    		"digit_length_description" : "String",
+    		"operator": "String",
+    		"remark": "String"
+	    }
+	]
     }
 ]
 ```
